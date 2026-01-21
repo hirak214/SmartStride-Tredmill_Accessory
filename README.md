@@ -380,14 +380,14 @@ See our [Contributing Guidelines](CONTRIBUTING.md) for details.
 <a href="https://github.com/yashviagrawal">
 <img src="https://github.com/yashviagrawal.png" width="100px;" alt="Yashvi Agrawal"/><br />
 <sub><b>Yashvi Agrawal</b></sub><br />
-📊 Data Science • 🎨 UI/UX
+💻 Computer Science • 🔬 AI/ML • 🎨 UI/UX
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/DiyaHirani">
 <img src="https://github.com/DiyaHirani.png" width="100px;" alt="Diya Hirani"/><br />
 <sub><b>Diya Hirani</b></sub><br />
-🔧 Hardware • 📱 Mobile Dev
+🔧 Hardware • 🔬 AI/ML •📱 Mobile Dev
 </a>
 </td>
 </tr>
